@@ -91,10 +91,10 @@ In RStudio: open the file and click **Source**; the plots appear in the Plots pa
 <!-- Fill in after running on real Yahoo Finance data: commit the PNGs to docs/ and write 2-3 sentences with your actual numbers
      (e.g. which VaR methods passed the Kupiec test, which Basel zone the portfolio is in, the worst stress scenario). -->
 
-![Efficient frontier](docs/03_granica_efektywna.png)
-![VaR backtest](docs/12_ryzyko_backtest_var.png)
-![Basel zones](docs/13_ryzyko_strefy_bazylei.png)
-![Stress tests](docs/14_ryzyko_stress_testy.png)
+![Efficient frontier](plots/03_granica_efektywna.png)
+![VaR backtest](plots/12_ryzyko_backtest_var.png)
+![Basel zones](plots/13_ryzyko_strefy_bazylei.png)
+![Stress tests](plots/14_ryzyko_stress_testy.png)
 
 ---
 
